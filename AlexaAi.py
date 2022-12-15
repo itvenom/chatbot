@@ -19,7 +19,7 @@ import re
 
 API_ID = os.environ.get("API_ID", "22800003") 
 API_HASH = os.environ.get("API_HASH", "b87bde8ca5c52ec1aa4306482c119583") 
-SESSION_NAME = os.environ.get("SESSION_NAME", "AQBKzD9T5enUcxAbfE68UkurILtHvrqCQb9aRR8i3n10rC31fEeAK5fEXJ1xIkWeNEt8iVk7mwbgw0t3HSiShCZcuH7fbgLTzu4T-6hzf1iVSaxt7CHQt_GvNsRAqQpu6lQ_JnCYHtkPW9ieiFhsB-1TFCDNxA3-QB-Sdk8szQWDFYjb599KE86O-sqjekiZtvHYIKjKQAtocvL-TS_nyuyX-fM7Hz1fUzShckH7g9ccNIOFFodmeqHgSCF1Vp1W7fkhpjOxLw6kfpDji_8n6m39qGHFzTLSmUzGgri7O08rgIq_4yWc24GIdZxTbelwqn7wa42h4XPcr3mFNQkLFUDfAAAAAUoPgaYA")
+SESSION_NAME = os.environ.get("SESSION_NAME", "AQAW42nyCKR2GyDsNizxhP-VID0ObttvUNa8aolWmZu-Nb5BM_33QMLViSJgSDSp1L6UsdO3mMdK97j08qzf5c2vJSzZd0sFnUvylgjtB3l6SEI2hwN6IvmtozTCypg5az27lLYENkHMKNnOKSdnFUachY-8CoCGvNYWn8MqmRBNAN4jNtJYVAcisIS16jNaOdqdbApAtmlQ_52Yd4kzDz2g3mf8r4HUpTV28YDS9xZHG-5HmlPWYiV78rG3OAKAvh8VXn0PQX39ZEo7Vbm_shJdHQ1n71z2h81Uc0-N0PTgq6oHsGYOjsHgko2-lMd5yso4Cdd0gv3EuqlUhdFwjzmTAAAAAUoPgaYA")
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://venomxspam097:a5t0d6w&@cluster0.zoh6lpb.mongodb.net/?retryWrites=true&w=majority")
 
 
