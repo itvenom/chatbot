@@ -1,2 +1,1 @@
-web: python -m http.server $PORT
-worker: python3 AlexaAi.py
+nohup python3 AlexaAi.py &
